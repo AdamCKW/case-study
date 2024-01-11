@@ -6,7 +6,7 @@
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/json-generator.git
+git clone https://github.com/AdamCKW/case-study.git
 ```
 
 ## Running The Script
