@@ -9,9 +9,14 @@
 git clone https://github.com/AdamCKW/case-study.git
 ```
 
+```
+pnpm install
+```
+
 ## Running The Script
 
 Run the following command:
+
 
 ```
 node index.js
